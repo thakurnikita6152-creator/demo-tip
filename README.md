@@ -3,7 +3,7 @@
 Short description of the project.
 Example: A machine learning model that predicts house prices using regression.
 
-📌 Features
+📌 Features 
 
 Train and evaluate ML model
 
